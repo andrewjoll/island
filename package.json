@@ -11,7 +11,7 @@
   "dependencies": {
     "gltf-webpack-loader": "^1.0.6",
     "raw-loader": "^4.0.1",
-    "three": "^0.115.0",
+    "three": "^0.137.0",
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-destructuring": "^7.9.5",
     "@babel/plugin-transform-parameters": "^7.9.5",
